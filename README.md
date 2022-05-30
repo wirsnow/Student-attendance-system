@@ -1,1 +1,4 @@
-# Student-attendance-system
+# 高校考勤管理系统
+大二期末用了两天做的数据库实验，比较简陋
+
+ ~~毕竟开始做的时候只会Python和sql……~~
